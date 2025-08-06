@@ -6,7 +6,9 @@
 
 /* ---------------- Blocks ---------------- */
 @import url('../blocks/body.css');
-@import url('../blocks/.');
-
-/* ---------------- Build... ---------------- */
-
+@import url('../blocks/page.css');
+@import url('../blocks/header.css');
+@import url('../blocks/main.css');
+@import url('../blocks/lead.css');
+@import url('../blocks/intro.css');
+@import url('../blocks/footer.css');
