@@ -1,8 +1,13 @@
 .intro {
   font-family: var(--font-family-inter);
   color: hsl(0, 0%, 99%);
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  flex-direction: column;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
   max-width: 830px;
   width: 100%;
 }
@@ -15,8 +20,13 @@
 }
 
 .intro__quote {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
-  flex-direction: column;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
   max-width: 830px;
   width: 100%;
   margin-bottom: 32px;
@@ -31,7 +41,8 @@
 .intro__quote-author {
   font-size: 24px;
   font-weight: 400;
-  align-self: flex-end;
+  -ms-flex-item-align: end;
+      align-self: flex-end;
 }
 
 .intro__paragraph {
