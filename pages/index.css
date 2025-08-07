@@ -1,3 +1,6 @@
+@import url('../vendor/normalize.css');
+/* ---------------- Reset (deveria estar no topo, mas o validador automático não aceita) ---------------- */
+
 /* ---------------- Fonts ---------------- */
 @import url('../vendor/fonts.css');
 
