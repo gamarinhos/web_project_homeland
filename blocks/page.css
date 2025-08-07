@@ -7,3 +7,15 @@
   max-width: 984px;
   margin: 0 auto;
 }
+
+@media screen and (max-width: 768px) {
+  .page {
+    row-gap: 86px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .page {
+    row-gap: 64px;
+  }
+}
