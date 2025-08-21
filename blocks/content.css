@@ -9,8 +9,12 @@
   gap: 92px;
   padding-bottom: 2px;
 
-  max-width: 984px;
+  max-width: 1280px;
   margin: 0 auto;
+}
+
+.content_width_wrapper {
+  max-width: 984px;
 }
 
 @media screen and (max-width: 768px) {

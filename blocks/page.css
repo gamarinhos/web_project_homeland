@@ -7,9 +7,6 @@
       -ms-flex-direction: column;
           flex-direction: column;
   row-gap: 90px;
-
-  max-width: 1280px;
-  margin: 0 auto;
 }
 
 @media screen and (max-width: 768px) {
