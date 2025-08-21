@@ -13,13 +13,6 @@
   text-align: left;
 }
 
-.place__section {
-  display: flex;
-  flex-direction: column;
-  gap: 80px;
-  padding: 0 16px;
-}
-
 .place__title {
   font-size: 72px;
   font-weight: 900;
