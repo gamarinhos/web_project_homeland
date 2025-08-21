@@ -4,6 +4,7 @@
   gap: 16px;
   max-width: 1184x;
   margin: 0 auto;
+  padding: 0 16px;
 }
 
 .photo-grid__item {
