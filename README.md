@@ -1,6 +1,6 @@
 # De Pátria para Pátria
 
-<img src="./images/1280.jpg" alt="Captura de tela da página para desktop">
+<img src="./images/screencapture.png" alt="Captura de tela da página para desktop">
 Link: <a href="https://gamarinhos.github.io/web_project_homeland">Homeland</a>
 
 ## Descrição do Projeto
