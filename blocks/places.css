@@ -1,0 +1,42 @@
+.places {
+  max-width: 984px;
+  margin: 0 auto;
+}
+
+.place {
+
+}
+
+.place__title {
+
+}
+
+.place__artist {
+
+}
+
+.place__artist-label {
+
+}
+
+.place__artist-name {
+
+}
+
+.place__image {
+
+}
+
+.place__button {
+
+}
+
+.place__paragraph {
+
+}
+
+@media screen and (max-width: 768px) {
+}
+
+@media screen and (max-width: 320px) {
+}
