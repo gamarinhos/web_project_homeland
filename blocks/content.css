@@ -7,17 +7,33 @@
       -ms-flex-direction: column;
           flex-direction: column;
   gap: 92px;
-  padding-bottom: 2px;
 
-  max-width: 1280px;
+  max-width: 1200px;
   margin: 0 auto;
 }
 
-.content_width_wrapper {
+.content__wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  gap: 92px;
+
   max-width: 984px;
 }
 
-.content_section_places {
+.content__section-places {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+
   gap: 80px;
   padding: 0 16px;
 }
